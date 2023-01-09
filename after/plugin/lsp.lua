@@ -9,6 +9,7 @@ lsp.ensure_installed({
 	"rust_analyzer",
 	"intelephense",
 	"eslint",
+	"svelte",
 })
 
 lsp.configure('sumneko_lua', {
